@@ -3,12 +3,12 @@ This repository includes resources which are more than sufficient to prepare for
 
 Sections in this repository : 
 1. [General guidelines](#general-guidelines-quick-reading-before-you-start-) : this section contains resources to understand how the interviewing process should look like and what to expect in general
-2. [Algorithms](#general-guidelines-quick-reading-before-you-start-) : The most important section, specially the starred list items, try to practice at least 3 problems and read 1 topic
+2. [Algorithms](#algorithms-practice-everyday--for-as-much-time-as-you-can) : The most important section, specially the starred list items, try to practice at least 3 problems and read 1 topic
 every day, also try to increase the difficulty of the problem by time, don't stick to easy problems because usually interview problems are medium and hard ones.
-3. [System design and architecture](#general-guidelines-quick-reading-before-you-start-) : if you have this as a part of your interviewing process then make sure to finish the starred list items (the most important ones) and then divide the rest according to your time.
-4. [Operating systems and programming concepts](#general-guidelines-quick-reading-before-you-start-) : no more description than the title !
-5. [Site reliability engineer books](#general-guidelines-quick-reading-before-you-start-) : in case your interview is for a site reliability engineer position ... these books are useful but not necessary.
-6. [Extra links](#general-guidelines-quick-reading-before-you-start-) : these are bonus resources (most of them are algorithm and data structure related) in case you have more time to practice :)
+3. [System design and architecture](#system-design-and-architecture-) : if you have this as a part of your interviewing process then make sure to finish the starred list items (the most important ones) and then divide the rest according to your time.
+4. [Operating systems and programming concepts](#os-and-programming-concepts-) : no more description than the title !
+5. [Site reliability engineer books](#for-sre-interview--site-reliability-engineer-books-) : in case your interview is for a site reliability engineer position ... these books are useful but not necessary.
+6. [Extra links](#extra-links-if-you-finished-already-what-was-mentioned-before-and-still-have-time-) : these are bonus resources (most of them are algorithm and data structure related) in case you have more time to practice :)
 
 My general advice is to allocate 70% of your time for algorithm and data structure practice, 25% for system design readings (if the recruiter told you you will have it in your interviewing process) and 5% for other topics or readings.
 I marked non-free resources with Money emoji, you can be super well prepared without them, but I strongly recommend Leetcode subscription.
