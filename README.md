@@ -3,7 +3,7 @@ This repository includes resources which are more than sufficient to prepare for
 
 Sections in this repository : 
 1. [General guidelines](#general-guidelines-quick-reading-before-you-start-) : this section contains resources to understand how the interviewing process should look like and what to expect in general
-2. [Algorithms](#algorithms-practice-everyday--for-as-much-time-as-you-can) : The most important section, specially the starred list items, try to practice at least 3 problems and read 1 topic
+2. [Algorithms & Data structure](#algorithms-practice-everyday--for-as-much-time-as-you-can) : The most important section, specially the starred list items, try to practice at least 3 problems and read 1 topic
 every day, also try to increase the difficulty of the problems you solve by time, don't stick to easy problems because usually interview problems are medium and hard ones.
 3. [System design and architecture](#system-design-and-architecture-) : if you have this as a part of your interviewing process (ask your recruiter) then make sure to finish the starred list items (the most important ones) and then divide the rest according to your time.
 4. [Operating systems and programming concepts](#os-and-programming-concepts-) : no more description than the title !
@@ -31,7 +31,7 @@ I also marked the "must" TODO items with star emoji :star:, so make sure to put 
  * [Example coding interview youtube video](https://www.youtube.com/watch?v=XKu_SEDAykw&feature=em-subs_digest)
  * [Previous google interviews coding questions](https://techdevguide.withgoogle.com/resources/types/coding-interview-question/?courses=foundational&courses=advanced&programming_languages=java&types=coding-interview-question#!)
 ----------------------------------------------------------------------------------------------------------
-## Algorithms (practice everyday ... for as much time as you can):
+## Algorithms & Data structure (practice everyday ... for as much time as you can):
 
 ### Solve everyday from : 
 * :star: :money_with_wings: Leetcode : [problems](https://leetcode.com/company/google/) & [Google interview card](https://leetcode.com/explore/interview/card/google/) & [Mock an onsite interview](https://leetcode.com/interview/)
