@@ -12,7 +12,7 @@ every day, also try to increase the difficulty of the problems you solve by time
 
 My general advice is to allocate 70% of your time for algorithm and data structure practice, 25% for system design readings (if the recruiter told you you will have it in your interviewing process) and 5% for other topics or readings.
 I marked non-free resources with Money emoji :money_with_wings:, you can be super well prepared without them, but I strongly recommend Leetcode subscription.
-I also marked the "must" TODO items with star emoji :star:, so if you make sure to put them in your top priority.
+I also marked the "must" TODO items with star emoji :star:, so make sure to put them in your top priority.
 
 
 ## General guidelines (Quick reading before you start) : 
