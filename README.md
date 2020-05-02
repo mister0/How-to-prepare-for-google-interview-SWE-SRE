@@ -1,5 +1,6 @@
-# How-to-prepare-for-google-interview-SWE-SRE
-This repository includes resources which are more than sufficient to prepare for google interview if you are applying for a software engineer or a site reliability engineer position
+# How to prepare for Google's interview for the positions : Software Engineer or Site Reliability Engineer
+
+This repository includes resources which are more than sufficient to prepare for google's interview if you are applying for a software engineer or a site reliability engineer position
 
 Sections in this repository : 
 1. [General guidelines](#general-guidelines-quick-reading-before-you-start-) : this section contains resources to understand how the interviewing process should look like and what to expect in general
