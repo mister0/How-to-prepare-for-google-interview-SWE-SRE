@@ -51,6 +51,7 @@ I also marked the "must" TODO items with star emoji :star:, so make sure to put 
 * [Geeks4Geeks](https://www.geeksforgeeks.org/) : [Dynamic programming](https://www.geeksforgeeks.org/dynamic-programming/) & [backtracking](https://www.geeksforgeeks.org/backtracking-algorithms/)
 * [Bit hacks](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetNaive)
 * [Google Code Jam distributed systems problems](https://codingcompetitions.withgoogle.com/past-competitions/distributed?fbclid=IwAR1gkpsoHn4AzsgrXTeR6EH9-stjKq5ScFXPXZQcZ0fCdxKWskCCJV197c8) and [How to run locally](https://code.google.com/codejam/resources/quickstart-guide#dcj)
+* [Scaler](https://www.scaler.com/topics/)
 ----------------------------------------------------------------------------------------------------------
 ## System design and architecture :
 
