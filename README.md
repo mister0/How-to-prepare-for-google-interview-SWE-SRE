@@ -21,6 +21,7 @@ I also marked the "must" TODO items with star emoji :star:, so make sure to put 
 ### PDFs :
  * [Interview preparation guide](https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE/blob/master/Interview%20Prep%20Guide.pdf)
  * [More preparation guidelines](https://www.mtu.edu/career/students/networking/interviews/prepare.pdf)
+ * [Technical Interview Questions](https://www.interviewbit.com/technical-interview-questions/)
 
 ### Links :
  * [How we hire](https://careers.google.com/how-we-hire/)
@@ -28,6 +29,7 @@ I also marked the "must" TODO items with star emoji :star:, so make sure to put 
  * [Steve's blog](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
  * [How can I get my resume shortlisted by Google](https://www.quora.com/How-can-I-get-my-resume-shortlisted-by-Google-for-the-position-of-software-engineer-Can-someone-tell-me-about-the-technical-achievements-or-any-other-details-that-Google-looks-for-on-a-resume)
  * [MIT hacking a google interview](http://courses.csail.mit.edu/iap/interview/materials.php)
+ * [Google Interview Questions](https://www.interviewbit.com/google-interview-questions/)
 ### Links for example algorithms and data structure problems :
  * [Example coding interview youtube video](https://www.youtube.com/watch?v=XKu_SEDAykw&feature=em-subs_digest)
  * [Previous google interviews coding questions](https://techdevguide.withgoogle.com/resources/types/coding-interview-question/?courses=foundational&courses=advanced&programming_languages=java&types=coding-interview-question#!)
@@ -38,6 +40,7 @@ I also marked the "must" TODO items with star emoji :star:, so make sure to put 
 * :star: :money_with_wings: Leetcode : [problems](https://leetcode.com/company/google/) & [Google interview card](https://leetcode.com/explore/interview/card/google/) & [Mock an onsite interview](https://leetcode.com/interview/)
 * :star: [Hackerrank interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 * :star: [Pramp](https://www.pramp.com/dashboard#/schedule) : Mock multiple interviews
+* * :star: [Programming: Data Structures & Algorithms](https://www.interviewbit.com/courses/programming/) 
 
 ### Read everyday from : 
 * [Programming interview questions](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
@@ -45,6 +48,8 @@ I also marked the "must" TODO items with star emoji :star:, so make sure to put 
 * [Leetcode trending posts](https://leetcode.com/discuss/interview-experience?currentPage=1&orderBy=hot&query=)
 * [Algo notes](https://github.com/yashasvigirdhar/Interview-Preparation/blob/master/algo-problem-solving/AlgoNotes.md) from the article [11 companies-55 interviews- 9 offers](https://medium.com/@yashgirdhar/11-companies-55-interviews-9-offers-including-google-and-amazon-heres-what-i-have-to-share-293852c1c98f)
 * :money_with_wings: [Grokking dynamic programming patterns for interviews (educative course)](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/)
+* [Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
+* [Algorithm Interview Questions](https://www.interviewbit.com/algorithm-interview-questions/)
 
 ### Extra resources : 
 * [Careercup](https://careercup.com/)
@@ -67,6 +72,7 @@ I also marked the "must" TODO items with star emoji :star:, so make sure to put 
  * [Tomcat](https://www.datadoghq.com/blog/tomcat-architecture-and-performance/) and [django](https://stackoverflow.com/questions/25531390/minimum-server-requirements-for-a-django-project)
  * [The practical test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
  * [Swift : an activity feed framework](https://github.com/tschellenbach/Stream-Framework)
+ * [System Design Interview Questions](https://www.interviewbit.com/system-design-interview-questions/)
 
 ### Google projects : 
  * [Map Reduce](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/16cb30b4b92fd4989b8619a61752a2387c6dd474.pdf) 
