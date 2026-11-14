@@ -44,7 +44,7 @@ I also marked the "must" TODO items with star emoji :star:, so make sure to put 
 * [Geeks4Geeks](https://www.geeksforgeeks.org/) : [Topics for competitive programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 * [Leetcode trending posts](https://leetcode.com/discuss/interview-experience?currentPage=1&orderBy=hot&query=)
 * [Algo notes](https://github.com/yashasvigirdhar/Interview-Preparation/blob/master/algo-problem-solving/AlgoNotes.md) from the article [11 companies-55 interviews- 9 offers](https://medium.com/@yashgirdhar/11-companies-55-interviews-9-offers-including-google-and-amazon-heres-what-i-have-to-share-293852c1c98f)
-* :money_with_wings: [Grokking dynamic programming patterns for interviews (educative course)](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/)
+* :money_with_wings: [Grokking dynamic programming patterns for interviews (Design Gurus course)](https://www.designgurus.io/course/grokking-dynamic-programming)
 
 ### Extra resources : 
 * [Careercup](https://careercup.com/)
@@ -57,7 +57,7 @@ I also marked the "must" TODO items with star emoji :star:, so make sure to put 
 ### Repositories and courses :
  * :star: [System-design-interview-github-repo](https://github.com/checkcheckzz/system-design-interview) specially the [Hot Questions](https://github.com/checkcheckzz/system-design-interview#qs)
  * :star: [System design primer](https://github.com/donnemartin/system-design-primer)
- * :money_with_wings: [Grokking the system design interview](https://www.educative.io/collection/5668639101419520/5649050225344512) specially [System design basics](https://www.educative.io/courses/grokking-the-system-design-interview/)
+ * :money_with_wings: [Grokking the system design interview](https://www.designgurus.io/course/grokking-the-system-design-interview) specially [System design basics](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/system-design-basics)
  
 ### Articles to read :
  * [Numbers everyone should know](https://gist.github.com/hellerbarde/2843375)
@@ -74,7 +74,7 @@ I also marked the "must" TODO items with star emoji :star:, so make sure to put 
  * [Google file system](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/035fc972c796d33122033a0614bc94cff1527999.pdf)
 
  ### Databases :
- * [SQL vs NoSQL](https://www.educative.io/courses/grokking-the-system-design-interview/YQlK1mDPgpK)
+ * [SQL vs NoSQL](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/sql-vs-nosql)
  * [ACID](https://en.wikipedia.org/wiki/ACID) vs [CAP](https://en.wikipedia.org/wiki/CAP_theorem)
  * Database [normalization](https://en.wikipedia.org/wiki/Database_normalization) and [UUID](https://en.wikipedia.org/wiki/Universally_unique_identifier)
  * [Cassandra](https://dzone.com/articles/cassandra-indexing-good-bad) vs [postgres](https://www.postgresql.org/docs/9.5/indexes-types.html) "Indexes"
